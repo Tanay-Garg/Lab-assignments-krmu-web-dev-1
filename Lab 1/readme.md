@@ -6,16 +6,16 @@ I'm a first year B.tech student and I'm just starting to explore web development
 
 ## Projects
 
--Personal Portfolio Website
--Automatic Bank Management System
--User Form
--Birthday Card
+- Personal Portfolio Website
+- Automatic Bank Management System
+- User Form
+- Birthday Card
 
 ## Skills
--HTML
--CSS
--JavaScript
--Python
+- HTML
+- CSS
+- JavaScript
+- Python
 
 ## How to Check
 1. Download or clone this repository 
